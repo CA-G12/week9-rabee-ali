@@ -1,0 +1,40 @@
+:root{
+    --blue:rgb(25, 84, 222);
+    --grey:rgb(177, 176, 176);
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.item-container{
+    display: flex;
+    width: 150px;
+    flex-flow: column nowrap;
+    align-items: center;
+    margin: 8px 12px;
+}
+
+.item-poster{
+    width: 150px;
+    height: 225px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+
+.item-title{
+    max-width: 140px;
+    background: transparent;
+    border: none;
+    font-weight: bolder;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.item-title:hover{
+    color: var(--blue);
+}
+
+.item-release-date{
+    color: var(--grey);
+}
