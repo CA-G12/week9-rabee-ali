@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.cate-title{
+    text-align: start;
+    margin: 12px;
+    text-transform: capitalize;
+}
+.items-List{
+    display: flex;
+    flex-flow: row nowrap;
+    overflow-x: scroll;
+}
