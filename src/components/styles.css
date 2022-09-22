@@ -25,6 +25,9 @@ header .container {
   color: #fff;
   cursor: pointer;
 }
+.list-bar:hover{
+  text-decoration: underline;
+}
 
 footer .container {
   display: flex;
