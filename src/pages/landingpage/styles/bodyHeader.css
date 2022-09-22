@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header-body {
+  width: 100%;
+  height: 50vh;
+  background-image: url("https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/bgQUBbZ14hfeb975yZ2YzTnAwen.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.content-header {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  padding: 0 6%;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  color: #fff;
+}
+
+.content-header h2 {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.content-header h3 {
+  font-size: 2em;
+  font-weight: 600;
+}
