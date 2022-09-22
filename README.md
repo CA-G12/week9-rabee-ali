@@ -8,7 +8,8 @@
 
 ## Overview
 
-    A nice looking website that let users to explore their favorite movies and series with no limitations
+    A nice looking website that let users to explore their favorite 
+    movies and series with no limitations
 
 ---
 
