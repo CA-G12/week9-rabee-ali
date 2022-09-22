@@ -2,7 +2,7 @@
 
 ## Site URL
 
-> [To Watch Movies](/)
+> [To Watch Movies](https://dancing-bienenstitch-1dcccb.netlify.app/)
 
 ---
 
